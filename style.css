@@ -3,13 +3,14 @@ button{
     font-size: 20px;
 }
 #div1{
+    margin-top: 400px;
 	border: 1px solid red;
     padding: 10px;
 	background-color: lightpink;
 	border-radius: 10px;
     width: 70%;
-    transform: translateY(320px);
-    transform: translateX(-475px);
+    transform: translateY(400px);
+    transform: translateX(20px);
     height: fit-content;
 }
 #div2{
